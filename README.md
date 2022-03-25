@@ -1,6 +1,6 @@
 ### Hi, I am Ludmila! 👋
 
-I am a student studying Quantitative Methods in Social Sciences at **Columbia University in the City of New York**. The coursework at CU is **Data Science** focused and revolves around NLP applications on the **cryptocurrency market predictions**. Professional history is in communications (advertising/marketing) for private and non-governmental organizations, as well as in risk analysis. I am a passionate learner that always makes time for tea and cookies during the day.
+I am a student studying Quantitative Methods in Social Sciences at **Columbia University in the City of New York**. My coursework at CU is **Data Science** focused and recently revolves around NLP applications on the **cryptocurrency market predictions**. Professional history is in communications (advertising/marketing) for private and non-governmental organizations, as well as in risk analysis. I am a passionate learner that always makes time for tea and cookies during the day.
 
 **Here are some more info about me:** <br>
  🔭 I’m currently working on my master thesis, using Reddit API to gain insight on the crypto market! <br>
