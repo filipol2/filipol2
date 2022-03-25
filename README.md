@@ -5,7 +5,6 @@ I am a student studying Quantitative Methods in Social Sciences at **Columbia Un
 **Here are some more info about me:** <br>
  🔭 I’m currently working on my master thesis, using Reddit API to gain insight on the crypto market! <br>
  🌱 I like to explore NLP techniques and ML applications in business context. <br>
- :star2: I took part in several business case competitions and hackathons. <br>
  :parasol_on_ground: In my free time, I like to go hiking or stay home and read books. <br>
  :yellow_heart: My favorite tea is Harney and Sons Paris black tea. <br>
  💬 Feel free to reach out to me with feedback, ideas, just because! <br>
